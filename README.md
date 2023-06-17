@@ -1,1 +1,1 @@
-# medical-gpt-api
+# medical-chatbotGPT
